@@ -1072,7 +1072,7 @@
       "linkText": "Les mer på Alis.no",
       "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
     },
-    
+
   {
     "korttekst_lm": "Improvisere tiltak og løsningsstrategier i komplekse kliniske situasjoner",
     "tema": "ALLMENNMEDISINSK METODE",
@@ -1370,7 +1370,255 @@
     ],
     "linkText": "Les mer på Alis.no",
     "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
-  }
+  },
+
+  
+  {
+    "korttekst_lm": "Medisinsk informasjon gjennom anamneseopptak og andre kilder",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 050",
+    "laeringsmaal": "Selvstendig kunne effektivt innhente og bearbeide relevant medisinsk informasjon fra pasient gjennom anamneseopptak og andre kilder, inkludert pårørende der pasienten har gitt sitt samtykke.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Pasientsikkerhet",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 051",
+    "laeringsmaal": "Selvstendig kunne påpeke og handle på en hensiktsmessig måte når pasientsikkerhet er i fare.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Kompetanse hos andre yrkesgrupper i kommunehelsetjenesten - samarbeide",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 052",
+    "laeringsmaal": "Ha kunnskap om kompetansen hos andre yrkesgrupper i kommunehelsetjenesten og selvstendig kunne samarbeide med ulike aktører til pasientens beste.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege og faglige dialogmøter. Bruk etablerte møteplasser som ALU og samarbeidsutvalg.",
+        "items": [
+          { "laeringsaktivitet": "Møte med kommunen", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Tverrfaglig samarbeid som ansvarsgruppe, hjemmebesøk og dialogmøter med NAV. Læringspunkter diskuteres med veileder.",
+        "items": [
+          { "laeringsaktivitet": "Tverrfaglig samarbeid", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Lokale ressurser for utredning, forebygging, behandling og rehabilitering - effektiv bruk",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 053",
+    "laeringsmaal": "Ha kunnskap om lokale ressurser for utredning, forebygging, behandling og rehabilitering, og hvordan disse kan brukes mest mulig effektivt.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Arbeidserfaring fra ulike allmennmedisinske arbeidsområder som sykehjem, ØHD og helsestasjon.",
+        "items": [
+          { "laeringsaktivitet": "Arbeidserfaring fra ulike allmennmedisinske arbeidsområder", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Tverrfaglig samarbeid og dialogmøter. Læringspunkter diskuteres med veileder.",
+        "items": [
+          { "laeringsaktivitet": "Tverrfaglig samarbeid", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Lede tverrfaglig medisinsk arbeid i primærhelsetjenesten",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 054",
+    "laeringsmaal": "Selvstendig kunne lede tverrfaglig medisinsk arbeid i primærhelsetjenesten.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Ledelse og koordinering av kommunale tiltak for pasienter med komplekse behov.",
+        "items": [
+          { "laeringsaktivitet": "Ledelse og koordinering av tiltak", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Samhandlingskompetanse",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 055",
+    "laeringsmaal": "Ha en godt utviklet samhandlingskompetanse ved å kjenne rammebetingelser, arbeidsmåter og prosedyrer fra godkjente utdanningsinstitusjoner innen primær- eller spesialisthelsetjenesten.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Minimum 6 måneder i godkjent utdanningsvirksomhet eller tilsvarende institusjon med veiledning og internundervisning.",
+        "items": [
+          { "laeringsaktivitet": "Arbeid ved godkjent utdanningsvirksomhet", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Evidensbasert kunnskap - ulike symptomer i uselektert befolkning",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 056",
+    "laeringsmaal": "Ha god evidensbasert kunnskap om diagnostikk og behandling av vanlige og alvorlige årsaker til symptomer i en uselektert befolkning.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen ulike medisinske fagområder med minimum 15 kurstimer per emne.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Vurdere subjektive symptomer",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 057",
+    "laeringsmaal": "Selvstendig kunne vurdere subjektive symptomer og forstå mulige årsaker.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen ulike medisinske fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Undersøkelser og praktiske ferdigheter - selektere i forhold til tids- og ressursbruk",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 058",
+    "laeringsmaal": "Selvstendig kunne fremskaffe nyansert objektiv informasjon ved relevante undersøkelser og selektere hensiktsmessig i forhold til tids- og ressursbruk.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Legevakt og praksisbesøk med rapport.",
+        "items": [
+          { "laeringsaktivitet": "Legevakt (egenregistrering/signatur)", "beskrivelse": "" },
+          { "laeringsaktivitet": "Praksisbesøk med rapport", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Diagnostiske tester i uselektert populasjon - indikasjon, kontraindikasjon og nytte",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 059",
+    "laeringsmaal": "Kjenne indikasjon, kontraindikasjon og nytte av relevante diagnostiske tester i en uselektert populasjon.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs (D) – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  }  
 
 ]
 
