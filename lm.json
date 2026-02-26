@@ -1372,7 +1372,7 @@
     "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
   },
 
-  
+
   {
     "korttekst_lm": "Medisinsk informasjon gjennom anamneseopptak og andre kilder",
     "tema": "KOMMUNIKASJON OG SAMHANDLING",
@@ -1618,7 +1618,241 @@
     ],
     "linkText": "Les mer på Alis.no",
     "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
-  }  
+  },  
+
+  {
+    "korttekst_lm": "Tolke objektiv informasjon i lys av subjektiv pasientinformasjon",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 060",
+    "laeringsmaal": "Selvstendig kunne utforske og fortolke objektiv informasjon i lys av subjektiv pasientinformasjon og egen erfaring, og tilpasse dette til den aktuelle pasienten.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen ulike medisinske fagområder med tilstrekkelig omfang og dybde.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Diagnostikk og tiltak - aktiv observasjon, behandling eller henvisning",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 061",
+    "laeringsmaal": "Selvstendig kunne diagnostisere sykdom eller iverksette tiltak som aktiv observasjon, behandling eller henvisning.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen ulike medisinske fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Adekvat allmennmedisinsk behandling og oppfølging",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 062",
+    "laeringsmaal": "Selvstendig kunne iverksette adekvat allmennmedisinsk behandling og oppfølging basert på diagnose eller symptomer og funn.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen ulike medisinske fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Praktiske behandlingsprosedyrer (P)",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 063",
+    "laeringsmaal": "Selvstendig kunne utføre praktiske behandlingsprosedyrer som brukes i allmennpraksis.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen relevante fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Seleksjonskompetanse og klinisk mønstergjenkjennelse",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 064",
+    "laeringsmaal": "Ha utviklet god seleksjonskompetanse og klinisk mønstergjenkjennelse.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen ulike medisinske fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Rollen som medisinsk ekspert i primærhelsetjenesten",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 065",
+    "laeringsmaal": "Selvstendig kunne ta rollen som den medisinske eksperten i primærhelsetjenesten.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Kurs i akuttmedisin (jf. akuttmedisinforskriften)", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Akutt, kritisk syke pasienter i primærhelsetjenesten",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 066",
+    "laeringsmaal": "Selvstendig kunne håndtere akutt, kritisk syke pasienter i primærhelsetjenesten.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Legevakt gjennomføres utenom kontorets åpningstid, minimum 6 timer.",
+        "items": [
+          { "laeringsaktivitet": "Legevakt (egenregistrering)", "beskrivelse": "" },
+          { "laeringsaktivitet": "Legevakt (signatur)", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Kurs i akuttmedisin (jf. akuttmedisinforskriften)", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Skille kritiske symptomer fra uvesentlige symptomer",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 067",
+    "laeringsmaal": "Selvstendig kunne skille kritiske symptomer fra uvesentlige symptomer under stress og tidsnød.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Legevakt utenom ordinær åpningstid.",
+        "items": [
+          { "laeringsaktivitet": "Legevakt (egenregistrering)", "beskrivelse": "" },
+          { "laeringsaktivitet": "Legevakt (signatur)", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Kurs i akuttmedisin (jf. akuttmedisinforskriften)", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Akuttbehandling - stabilisere pasienten (P)",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 068",
+    "laeringsmaal": "Selvstendig kunne yte allmennmedisinsk akuttbehandling og stabilisere pasienten før videre behandling.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Legevakt utenom ordinær åpningstid.",
+        "items": [
+          { "laeringsaktivitet": "Legevakt (egenregistrering)", "beskrivelse": "" },
+          { "laeringsaktivitet": "Legevakt (signatur)", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Kurs i akuttmedisin (jf. akuttmedisinforskriften)", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Medisinsk leder helse - samarbeid med nødetatene",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 069",
+    "laeringsmaal": "Selvstendig kunne innta rollen som medisinsk leder helse og samarbeide effektivt med nødetatene i akuttmedisinske situasjoner.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Legevakt utenom ordinær åpningstid.",
+        "items": [
+          { "laeringsaktivitet": "Legevakt (egenregistrering)", "beskrivelse": "" },
+          { "laeringsaktivitet": "Legevakt (signatur)", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Ferdighetstrening",
+        "beskrivelse": "Trening i akuttmedisinske team.",
+        "items": [
+          { "laeringsaktivitet": "Trening som medisinsk leder i akuttmedisinsk team", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Kurs i akuttmedisin (jf. akuttmedisinforskriften)", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  }
 
 ]
 
