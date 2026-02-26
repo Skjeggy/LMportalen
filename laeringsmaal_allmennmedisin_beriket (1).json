@@ -1,0 +1,1993 @@
+[
+  {
+    "kode": "ALM-001",
+    "tema": "Allmennmedisinsk profesjonalitet",
+    "korttekst_lm": "Faglig forsvarlighet - egen praksis",
+    "laeringsmaal": "Selvstendig kunne sikre faglig forsvarlighet av egen, klinisk praksis.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+        "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\".",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Gjensidig praksisbesøk, ALM-001, ALM-002 m.fl",
+        "beskrivelse": "Gjensidig praksisbesøk med rapport, for eksempel etter  Legeforeningens mal for rapportering etter praksisbesøk.\n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-002",
+    "tema": "Allmennmedisinsk profesjonalitet",
+    "korttekst_lm": "Styrker og begrensninger i egne kunnskaper og ferdigheter - Veilede kolleger",
+    "laeringsmaal": "Kunne evaluere styrker og begrensninger i egne kunnskaper og ferdigheter, og selvstendig kunne veilede kolleger i tilsvarende evaluering.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Gjensidig praksisbesøk, ALM-001, ALM-002 m.fl",
+        "beskrivelse": "Gjensidig praksisbesøk med rapport, for eksempel etter  Legeforeningens mal for rapportering etter praksisbesøk.\n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-003",
+    "tema": "Allmennmedisinsk profesjonalitet",
+    "korttekst_lm": "Lokalsamfunnet - egen rolle som lege",
+    "laeringsmaal": "Selvstendig kunne reflektere over hvordan egen rolle som lege påvirker lokalsamfunnet og blir påvirket av lokalsamfunnet.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Møte med kommunen, tema ALM-003, ALM-004 m.fl",
+        "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege m.fl. - faglige dialogmøter\nBruk gjerne etablerte møteplasser knyttet til avtaleverket eller  møteplasser mellom lege og kommuneledelse, eks. Allmennlegeutvalget (ALU) og samarbeidsutvalgmøter.",
+        "dokumentasjonsform": "Egenregistrering"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-004",
+    "tema": "Allmennmedisinsk profesjonalitet",
+    "korttekst_lm": "Kultur, samfunn, historie og nasjonale strømninger - allmennlegens rolle",
+    "laeringsmaal": "Selvstendig kunne reflektere over hvordan kultur, samfunn, historie og nasjonale strømninger påvirker forventningene til allmennlegens rolle.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Møte med kommunen, tema ALM-003, ALM-004 m.fl",
+        "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege m.fl. - faglige dialogmøter\nBruk gjerne etablerte møteplasser knyttet til avtaleverket eller  møteplasser mellom lege og kommuneledelse, eks. Allmennlegeutvalget (ALU) og samarbeidsutvalgmøter.",
+        "dokumentasjonsform": "Egenregistrering"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-005",
+    "tema": "Allmennmedisinsk profesjonalitet",
+    "korttekst_lm": "Yrkesskade - Helse og trivsel for legen og legens medarbeidere",
+    "laeringsmaal": "Ha kunnskap om forhold ved eget yrke og praksis som kan påvirke helse og trivsel for legen og legens medarbeidere; samt kjenne til hvordan yrkesskade kan forebygges.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-006",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Forebyggende helsetjenester i et klinisk og samfunnsmessig perspektiv",
+    "laeringsmaal": "Selvstendig kunne ivareta pasientens behov for forebyggende helsetjenester i et klinisk og samfunnsmessig perspektiv.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-007",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Levevaner, nærmiljø og arbeidsliv - tilgang til helsetjenester",
+    "laeringsmaal": "Sammen med pasienten kunne avdekke forhold ved levevaner, nærmiljø og arbeidsliv av betydning for liv, helse og pasientens tilgang til nødvendige helsetjenester.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-008",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Helhetlig tilnærming - Kommunikasjonsferdigheter og kommunikasjonsstrategier",
+    "laeringsmaal": "Selvstendig kunne ha en helhetlig tilnærming til pasient og pårørende, og kunne bruke kommunikasjonsferdigheter og -strategier for å hjelpe pasienter og pårørende til å fatte kvalifiserte beslutninger om egen helseatferd.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Videokonsultasjon i forbindelse med gruppeveiledning, ALM-008, ALM-042 m.fl",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-009",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Forebygging, helsefremmende tiltak og helseovervåkning",
+    "laeringsmaal": "Selvstendig kunne innarbeide forebygging, helsefremmende tiltak og helseovervåkning i klinisk praksis.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-010",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Sosiale tiltak på system- og samfunnsnivå - påvirke  lokalsamfunnet",
+    "laeringsmaal": "Selvstendig og i samarbeid med andre bidra til sosialt ansvarlige tiltak på system- og samfunnsnivå for å påvirke faktorer i lokalsamfunnet av betydning for liv og helse.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Møte med kommunen, tema ALM-003, ALM-004 m.fl",
+        "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege m.fl. - faglige dialogmøter\nBruk gjerne etablerte møteplasser knyttet til avtaleverket eller  møteplasser mellom lege og kommuneledelse, eks. Allmennlegeutvalget (ALU) og samarbeidsutvalgmøter.",
+        "dokumentasjonsform": "Egenregistrering"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-011",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Folkehelsearbeidet lokalt - helsemessige utsatte grupper",
+    "laeringsmaal": "Selvstendig kunne bidra med observasjoner og kunnskap inn i det lokale folkehelsearbeidet, samt ivareta helsemessige utsatte grupper spesielt.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Møte med kommunen, tema ALM-003, ALM-004 m.fl",
+        "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege m.fl. - faglige dialogmøter\nBruk gjerne etablerte møteplasser knyttet til avtaleverket eller  møteplasser mellom lege og kommuneledelse, eks. Allmennlegeutvalget (ALU) og samarbeidsutvalgmøter.",
+        "dokumentasjonsform": "Egenregistrering"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-012",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Sakkyndighetsvurderinger",
+    "laeringsmaal": "Selvstendig kunne utføre sakkyndighetsvurderinger, også for pasienter man står i et langvarig behandlerforhold til.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Sakkyndighetskurs",
+        "beskrivelse": "Sakkyndighetskurs. Se felles kompetansemål (FKM-plan).",
+        "dokumentasjonsform": "Ingen"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-013",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Behandlerrollen - rollen som sakkyndig",
+    "laeringsmaal": "Ha kunnskap om hvordan behandlerrollen skiller seg fra rollen som sakkyndig, og selvstendig kunne benytte teknikker for å tre ut av allmennlegerollen og gå inn i sakkyndighetsrollen.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-014",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Medisinske utfordringer - grunnlag for korrekte ytelser",
+    "laeringsmaal": "Selvstendig kunne beskrive pasientens medisinske utfordringer slik at det gis et riktigst mulig grunnlag for korrekte ytelser.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-015",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Prioritere i egen praksis -  rett behandling på rett sted til rett tid",
+    "laeringsmaal": "Selvstendig kunne prioritere i egen praksis og kunne bidra til at pasienten får rett behandling på rett sted til rett tid.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-016",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Organisere egen praksis -  tilgjengelig ved behov for øyeblikkelig hjelp",
+    "laeringsmaal": "Selvstendig kunne organisere egen praksis slik at pasienter som trenger mest, også får mest, og slik at legen er tilgjengelig ved behov for øyeblikkelig hjelp.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Gjensidig praksisbesøk, ALM-001, ALM-002 m.fl",
+        "beskrivelse": "Gjensidig praksisbesøk med rapport, for eksempel etter  Legeforeningens mal for rapportering etter praksisbesøk.\n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-017",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Tilgjengelighet - egne pasienter og samarbeidspartnere",
+    "laeringsmaal": "Selvstendig kunne fordele egen tilgjengelighet mellom egne pasienter og samarbeidspartnere.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-018",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Over- og underdiagnostikk, samt over- og underbehandling",
+    "laeringsmaal": "Kjenne til og selvstendig kunne vurdere utfordringer ved over- og underdiagnostikk, samt ved over- og underbehandling.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-019",
+    "tema": "Samfunnsoppdrag og forebyggende helsearbeid",
+    "korttekst_lm": "Relevant informasjon - henvendelser og henvisninger",
+    "laeringsmaal": "Selvstendig kunne formulere henvendelser og henvisninger slik at de inneholder relevant informasjon og bidrar til oppnåelse av nødvendig helsehjelp for pasientene.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-020",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Forskning - historisk bakgrunn og faglig forankring",
+    "laeringsmaal": "Ha kjennskap til allmennmedisinsk forskning, og kjenne til historisk bakgrunn og den faglige forankringen for allmennmedisinen og den personlige legen.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (D) - Allmennlegen som forsker og kunnskapshåndterer",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-021",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Evidensbasert kunnskap",
+    "laeringsmaal": "Selvstendig kunne tilegne seg evidensbasert kunnskap og fortolke den kritisk i relasjon til den allmennmedisinske hverdagen, og kunne benytte kunnskapen i faglige beslutninger og i veiledning av pasienter og kolleger.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (D) - Allmennlegen som forsker og kunnskapshåndterer",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-022",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Særtrekk ved allmennmedisin og uselekterte populasjoner",
+    "laeringsmaal": "Ha kjennskap til særtrekk ved allmennmedisin og utfordringer ved legearbeid i uselekterte populasjoner.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-023",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Symptomer og sykdommer - uselektert populasjon",
+    "laeringsmaal": "Ha god kunnskap om forekomst av symptomer og sykdommer i en uselektert populasjon.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+        "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\".",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-024",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Pasientens erfaringsbakgrunn, arbeidslivstilknytning og sosiale miljø - påvirkning på sykdom",
+    "laeringsmaal": "Ha kjennskap til hvordan faktorer i pasientens erfaringsbakgrunn, arbeidslivstilknytning og sosiale miljø og forutsetninger kan virke inn på sykdom og mestringsevne, og selvstendig kunne bruke denne kunnskapen i møte med hver enkelt pasient.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-025",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Lokalsamfunnet",
+    "laeringsmaal": "Selvstendig kunne tilegne seg relevant kunnskap om lokalsamfunnet.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+        "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\".",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-026",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Tid og gjentatte konsultasjoner som virkemiddel",
+    "laeringsmaal": "Selvstendig kunne bruke tid og gjentatte konsultasjoner som virkemiddel i diagnostikk og behandling.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+        "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\".",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-027",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Relasjon til pasienten",
+    "laeringsmaal": "Selvstendig kunne inngå i en varig og forpliktende profesjonell relasjon til pasienten.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+        "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\".",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-028",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Pasientsentrert fokus",
+    "laeringsmaal": "Selvstendig kunne arbeide pasientsentrert med fokus på pasienten, pasientens kontekst og pasientens presenterte problem.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Gjensidig praksisbesøk, ALM-001, ALM-002 m.fl",
+        "beskrivelse": "Gjensidig praksisbesøk med rapport, for eksempel etter  Legeforeningens mal for rapportering etter praksisbesøk.\n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-029",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Tilpasse behandling og oppfølging til hver enkelt pasient",
+    "laeringsmaal": "Selvstendig kunne tilpasse behandling og oppfølging til hver enkelt pasient.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-030",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Mestring hos pasienten og lindring av pasientens plager",
+    "laeringsmaal": "Selvstendig kunne bidra til økt mestring hos pasienten og til lindring av pasientens plager.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-031",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Adekvate primærhelsetjenester gjennom hele livsløpet",
+    "laeringsmaal": "Selvstendig kunne yte adekvate primærhelsetjenester til pasientpopulasjonen gjennom hele livsløpet.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Arbeidserfaring fra ulike allmennmedisinske arbeidsområder",
+        "beskrivelse": "Arbeidserfaring  fra andre kliniske allmennmedisinske oppgaver enn åpen uselektert praksis, som sykehjem, ØHD, helsestasjon, fengselshelsetjeneste etc,  \n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-032",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Levevaner eller behandling som fremmer autonomi og mestring - veilede og motivere",
+    "laeringsmaal": "Selvstendig kunne veilede og motivere pasienter for helsefremmende endringer i forhold til levevaner eller behandling på en måte som fremmer autonomi og mestring.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-033",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Individuelle forskjeller i legesøkningsatferd og implikasjoner for fortolkning av symptomer",
+    "laeringsmaal": "Ha kunnskap om betydningen av individuelle forskjeller i legesøkningsatferd og hvilke implikasjoner det har for fortolkning av symptomer, samt selvstendig kunne bruke denne kunnskapen i møtet med den enkelte pasient.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-034",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Trinnvis utredning med tilpasset ressursbruk",
+    "laeringsmaal": "Selvstendig kunne gjennomføre trinnvis utredning med tilpasset bruk av ressurser.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-035",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Prioritere oppgaver og tiltak - fleksibel tilnærming til problemstillinger",
+    "laeringsmaal": "Selvstendig kunne prioritere forskjellige allmennmedisinske oppgaver og tiltak og være fleksibel i sin tilnærming til problemstillinger.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Tverrfaglig samarbeid, ALM-035, ALM-052 m.fl",
+        "beskrivelse": "Eksempler: Ansvarsgruppe, hjemmebesøk med annet helsepersonell, dialogmøte NAV mm.\n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-036",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Tid og ressursbruk på en effektiv måte",
+    "laeringsmaal": "Selvstendig kunne bruke tilgjengelig tid og ressurser på en effektiv måte.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-037",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Tolerere og håndtere usikkerhet i diagnostikk og behandling",
+    "laeringsmaal": "Selvstendig kunne reflektere over, tolerere og håndtere usikkerhet i diagnostikk og behandling.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-038",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Aksept for usikkerhet hos pasienter og pårørende",
+    "laeringsmaal": "Selvstendig kunne bidra til aksept for usikkerhet hos pasienter og pårørende.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-039",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Problemløsning og beslutningstaking",
+    "laeringsmaal": "Ha utviklet god kompetanse i selvstendig problemløsning og beslutningstaking.",
+    "kommentar": "",
+    "aktiviteter": []
+  },
+  {
+    "kode": "ALM-040",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Improvisere tiltak og løsningsstrategier i komplekse kliniske situasjoner",
+    "laeringsmaal": "Selvstendig kunne improvisere tiltak og løsningsstrategier i komplekse kliniske situasjoner.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (egenreg.)",
+        "beskrivelse": "Legevakt, minimum 40, gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomførte legevakt.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (sign.)",
+        "beskrivelse": "Legevakt gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nAntall signaturer avtales i underveissamtale med veileder.\nOm ønskelig legges kommentarer inn i kommentarfeltet.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Kurs i akuttmedisin (jf akuttmedisinforskriften)",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-041",
+    "tema": "Allmennmedisinsk metode",
+    "korttekst_lm": "Kunnskapskilder, retningslinjer og beslutningsstøtteverktøy",
+    "laeringsmaal": "Kjenne til og selvstendig kunne bruke relevante allmennmedisinske kunnskapskilder, retningslinjer og beslutningsstøtteverktøy",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (D) - Allmennlegen som forsker og kunnskapshåndterer",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-042",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Kommunikasjonsferdigheter",
+    "laeringsmaal": "Ha gode kommunikasjonsferdigheter, både muntlig og skriftlig, og kunne forstå pasientens non-verbale kommunikasjon.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legeerklæringer til NAV",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Videokonsultasjon i forbindelse med gruppeveiledning, ALM-008, ALM-042 m.fl",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-043",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Trygge fysiske rammer - ivareta pasientens verdighet, diskresjon, engasjement og sikkerhet",
+    "laeringsmaal": "Selvstendig kunne skape trygge fysiske rammer som ivaretar pasientens verdighet, diskresjon, engasjement og sikkerhet.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Videokonsultasjon i forbindelse med gruppeveiledning, ALM-008, ALM-042 m.fl",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-044",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Pasientsentrert tilnærming - empati, respekt og innlevelse",
+    "laeringsmaal": "Selvstendig kunne kommunisere med en pasientsentrert tilnærming som støtter pasientens tillit og autonomi, og som er karakterisert ved empati, respekt og innlevelse.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Videokonsultasjon i forbindelse med gruppeveiledning, ALM-008, ALM-042 m.fl",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-045",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Tilpasse kommunikasjonen til pasienten",
+    "laeringsmaal": "Selvstendig kunne tilpasse kommunikasjonen til pasientens ståsted og preferanser, og til pasientens situasjon og medisinske tilstand.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Videokonsultasjon i forbindelse med gruppeveiledning, ALM-008, ALM-042 m.fl",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-046",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Verdier, holdninger og perspektiver - betydning for helseproblemer og behandlingskvalitet",
+    "laeringsmaal": "Selvstendig kunne gjenkjenne når verdier, holdninger og perspektiver hos lege, pasient, pårørende og annet helsepersonell kan ha en betydning for tilnærmingen til pasientens helseproblemer og behandlingskvalitet.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Praksisbesøk med rapport ALM-046, ALM-058",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Videokonsultasjon i forbindelse med gruppeveiledning, ALM-008, ALM-042 m.fl",
+        "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder.",
+        "dokumentasjonsform": "Signatur"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-047",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Uenighet og følelsesmessige vanskelige samtaler",
+    "laeringsmaal": "Selvstendig kunne håndtere uenighet og følelsesmessige vanskelige samtaler.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-048",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Fortolkning av opplysninger, fakta og funn av både lege og pasient",
+    "laeringsmaal": "Kjenne til konsekvensene av at mennesket er fortolkende av natur og kunne ta hensyn til at de opplysninger, fakta og funn som blir omhandlet i et pasientmøte blir fortolket av både lege og pasient, der fortolkningene ofte bærer preg av tidligere erfaringer hos begge parter.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-049",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Konsultasjonsteknikker",
+    "laeringsmaal": "Selvstendig kunne bruke forskjellige konsultasjonsteknikker og ha kunnskap om nytten av teknikkene ved ulike problemstillinger.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-050",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Medisinsk informasjon gjennom anamneseopptak og andre kilder",
+    "laeringsmaal": "Selvstendig kunne effektivt innhente og bearbeide relevant medisinsk informasjon fra pasient gjennom anamneseopptak og andre kilder, inkludert pårørende der pasienten har gitt sitt samtykke.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-051",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Pasientsikkerhet",
+    "laeringsmaal": "Selvstendig kunne påpeke og handle på en hensiktsmessig måte når pasientsikkerhet er i fare.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-052",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Kompetanse hos andre yrkesgrupper i kommunehelsetjenesten - samarbeide",
+    "laeringsmaal": "Ha kunnskap om kompetansen hos andre yrkesgrupper i kommunehelsetjenesten og selvstendig kunne samarbeide med ulike aktører til pasientens beste.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Møte med kommunen, tema ALM-003, ALM-004 m.fl",
+        "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege m.fl. - faglige dialogmøter\nBruk gjerne etablerte møteplasser knyttet til avtaleverket eller  møteplasser mellom lege og kommuneledelse, eks. Allmennlegeutvalget (ALU) og samarbeidsutvalgmøter.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Tverrfaglig samarbeid, ALM-035, ALM-052 m.fl",
+        "beskrivelse": "Eksempler: Ansvarsgruppe, hjemmebesøk med annet helsepersonell, dialogmøte NAV mm.\n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-053",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Lokale ressurser for utredning, forebygging, behandling og rehabilitering - effektiv bruk",
+    "laeringsmaal": "Ha kunnskap om lokale ressurser for utredning, forebygging, behandling og rehabilitering, og hvordan disse kan brukes på en mest mulig effektiv måte.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Arbeidserfaring fra ulike allmennmedisinske arbeidsområder",
+        "beskrivelse": "Arbeidserfaring  fra andre kliniske allmennmedisinske oppgaver enn åpen uselektert praksis, som sykehjem, ØHD, helsestasjon, fengselshelsetjeneste etc,  \n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Tverrfaglig samarbeid, ALM-035, ALM-052 m.fl",
+        "beskrivelse": "Eksempler: Ansvarsgruppe, hjemmebesøk med annet helsepersonell, dialogmøte NAV mm.\n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-054",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Lede tverrfaglig medisinsk arbeid i primærhelsetjenesten",
+    "laeringsmaal": "Selvstendig kunne lede tverrfaglig medisinsk arbeid i primærhelsetjenesten.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Ledelse og koordinering - tiltak for pasient med komplekse behov",
+        "beskrivelse": "Ledelse av og koordinering av kommunale tiltak for pasient med  komplekse behov.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-055",
+    "tema": "Kommunikasjon og samhandling",
+    "korttekst_lm": "Samhandlingskompetanse",
+    "laeringsmaal": "Ha en godt utviklet samhandlingskompetanse ved å kjenne rammebetingelser, arbeidsmåter og prosedyrer fra en eller flere godkjente utdanningsinstitusjoner innen primær- eller spesialisthelsetjenesten.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Arbeid ved godkjent utdanningsvirksomhet eller tilsvarende",
+        "beskrivelse": "For å oppnå kompetanse i samhandling og selektert pasientpopulasjon anbefales minimum 6 måneder (eller 3 pluss 3) i godkjent utdanningsvirksomhet innen kliniske spesialiteter, og/eller i større kommunale helseinstitusjoner som har ansatt spesialist i allmennmedisin i full stilling, kan tilby individuell veiledning og supervisjon på nivå med godkjente utdanningsvirksomheter og har organisert internundervisning. LIS må delta i vaktordning der dette finnes.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-056",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Evidensbasert kunnskap - ulike symptomer presentert av pasienter i en uselektert befolkning",
+    "laeringsmaal": "Ha god evidensbasert kunnskap om diagnostikk og behandling av de vanlige og de mest alvorlige årsakene til ulike symptomer presentert av pasienter i en uselektert befolkning.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-057",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Vurdere subjektive symptomer",
+    "laeringsmaal": "Selvstendig kunne vurdere subjektive symptomer og ha god kompetanse om hva disse symptomene kan være forårsaket av.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-058",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Undersøkelser og praktiske ferdigheter -   selektere i forhold til tids- og ressursbruk",
+    "laeringsmaal": "Selvstendig kunne fremskaffe nyansert objektiv informasjon om symptomer ved å ta i bruk ulike undersøkelser og praktiske ferdigheter relatert til allmennpraksis, og ved effektivt å selektere hvilke undersøkelser som er mest relevante i forhold til tids- og ressursbruk.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (egenreg.)",
+        "beskrivelse": "Legevakt, minimum 40, gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomførte legevakt.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (sign.)",
+        "beskrivelse": "Legevakt gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nAntall signaturer avtales i underveissamtale med veileder.\nOm ønskelig legges kommentarer inn i kommentarfeltet.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Praksisbesøk med rapport ALM-046, ALM-058",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-059",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Diagnostiske tester i uselektert populasjon - indikasjon, kontraindikasjon og nytte",
+    "laeringsmaal": "Kjenne indikasjon, kontraindikasjon og nytte av relevante diagnostiske tester i en uselektert populasjon.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (D) - Allmennlegen som forsker og kunnskapshåndterer",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-060",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Tolke objektiv informasjon i lys av subjektiv pasientinformasjon",
+    "laeringsmaal": "Selvstendig kunne utforske og fortolke objektiv informasjon i lys av subjektiv pasientinformasjon og egen erfaring med liknende kasuistikker og tilpasse dette til den aktuelle pasienten.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-061",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Diagnostikk og tiltak - aktiv observasjon, behandling eller henvisning",
+    "laeringsmaal": "Selvstendig kunne diagnostisere sykdom, eller ut fra symptomer iverksette tiltak som aktiv observasjon, behandling eller henvisning.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-062",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Adekvat allmennmedisinsk behandling og oppfølging",
+    "laeringsmaal": "Selvstendig kunne iverksette adekvat allmennmedisinsk behandling og oppfølging basert på diagnose eller symptomer og funn.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-063",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Praktiske behandlingsprosedyrer (P)",
+    "laeringsmaal": "Selvstendig kunne utføre praktiske behandlingsprosedyrer som brukes i allmennpraksis.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Felleskonsultasjon med supervisør",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-064",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Seleksjonskompetanse og klinisk mønstergjenkjennelse",
+    "laeringsmaal": "Ha utviklet god seleksjonskompetanse og klinisk mønstergjenkjennelse.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-065",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Rollen som medisinsk ekspert i primærhelsetjenesten",
+    "laeringsmaal": "Selvstendig kunne ta rollen som den medisinske eksperten i primærhelsetjenesten.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Kurs i akuttmedisin (jf akuttmedisinforskriften)",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-066",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Akutt, kritisk syke pasienter i primærhelsetjenesten",
+    "laeringsmaal": "Selvstendig kunne håndtere akutt, kritisk syke pasienter i primærhelsetjenesten.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (egenreg.)",
+        "beskrivelse": "Legevakt, minimum 40, gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomførte legevakt.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (sign.)",
+        "beskrivelse": "Legevakt gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nAntall signaturer avtales i underveissamtale med veileder.\nOm ønskelig legges kommentarer inn i kommentarfeltet.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Kurs i akuttmedisin (jf akuttmedisinforskriften)",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-067",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Skille kritiske symptomer fra uvesentlige symptomer",
+    "laeringsmaal": "Selvstendig kunne skille kritiske symptomer fra uvesentlige symptomer under stress, tidsnød og påtrykk fra omgivelsene.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (egenreg.)",
+        "beskrivelse": "Legevakt, minimum 40, gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomførte legevakt.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (sign.)",
+        "beskrivelse": "Legevakt gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nAntall signaturer avtales i underveissamtale med veileder.\nOm ønskelig legges kommentarer inn i kommentarfeltet.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Kurs i akuttmedisin (jf akuttmedisinforskriften)",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-068",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Akuttbehandling - stabilisere pasienten (P)",
+    "laeringsmaal": "Selvstendig kunne yte allmennmedisinsk akuttbehandling og kunne stabilisere pasienten i påvente av videre behandling i spesialisthelsetjenesten.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (egenreg.)",
+        "beskrivelse": "Legevakt, minimum 40, gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomførte legevakt.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (sign.)",
+        "beskrivelse": "Legevakt gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nAntall signaturer avtales i underveissamtale med veileder.\nOm ønskelig legges kommentarer inn i kommentarfeltet.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Kurs i akuttmedisin (jf akuttmedisinforskriften)",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-069",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Medisinsk leder helse - samarbeid med nødetatene",
+    "laeringsmaal": "Selvstendig kunne innta rollen som medisinsk leder helse og kunne samarbeide effektivt med nødetatene i akuttmedisinske situasjoner.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (egenreg.)",
+        "beskrivelse": "Legevakt, minimum 40, gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomførte legevakt.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (sign.)",
+        "beskrivelse": "Legevakt gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nAntall signaturer avtales i underveissamtale med veileder.\nOm ønskelig legges kommentarer inn i kommentarfeltet.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Kurs i akuttmedisin (jf akuttmedisinforskriften)",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Ferdighetstrening",
+        "laeringsaktivitet": "Trening i akuttmedisinske team - medisinsk leder",
+        "beskrivelse": "Legevakt",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-070",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Prioritere, kommunisere, delegere og organisere",
+    "laeringsmaal": "Ved samtidighetskonflikt selvstendig kunne prioritere mellom forskjellige pasienter med kritisk sykdom eller alvorlig skade og kunne organisere, kommunisere og delegere videre behandling.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (egenreg.)",
+        "beskrivelse": "Legevakt, minimum 40, gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomførte legevakt.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Legevakt (sign.)",
+        "beskrivelse": "Legevakt gjennomføres utenom kontorenes vanlige åpningstid og ha en varighet på minst 6 timer.\n\nAntall signaturer avtales i underveissamtale med veileder.\nOm ønskelig legges kommentarer inn i kommentarfeltet.",
+        "dokumentasjonsform": "Signatur"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Kurs i akuttmedisin (jf akuttmedisinforskriften)",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Ferdighetstrening",
+        "laeringsaktivitet": "Trening i akuttmedisinske team - prioritere, organisere, kommunisere og delegere",
+        "beskrivelse": "Trening i akuttmedisinske team",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-071",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Kroniske sykdommer - samarbeide med spesialisthelsetjenesten",
+    "laeringsmaal": "Selvstendig kunne diagnostisere og behandle kroniske sykdommer i primærhelsetjenesten, og kunne samarbeide med spesialisthelsetjenester om slike pasienter.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten, ALM-071, ALM-072 m.fl",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.  Bruk gjerne etablerte møteplasser der disse finnes.",
+        "dokumentasjonsform": "Egenregistrering"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-072",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Kroniske folkesykdommer - vanligste",
+    "laeringsmaal": "Selvstendig kunne diagnostisere de vanligste kroniske folkesykdommene.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten, ALM-071, ALM-072 m.fl",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.  Bruk gjerne etablerte møteplasser der disse finnes.",
+        "dokumentasjonsform": "Egenregistrering"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-073",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Kronisk sykdom - Behandlingsplan og oppfølgingsplan",
+    "laeringsmaal": "Selvstendig kunne iverksette, følge opp og justere en målrettet behandlings- og oppfølgingsplan tilpasset den enkelte pasient med kronisk sykdom.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten, ALM-071, ALM-072 m.fl",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.  Bruk gjerne etablerte møteplasser der disse finnes.",
+        "dokumentasjonsform": "Egenregistrering"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-074",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Behandlingplan - agere på symptomer - medikamentjustering, henvisning videre",
+    "laeringsmaal": "Selvstendig kunne oppdage og agere på symptomer som tilsier behov for endret behandlingsplan som medikamentjustering, henvisning videre eller innleggelse.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten, ALM-071, ALM-072 m.fl",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.  Bruk gjerne etablerte møteplasser der disse finnes.",
+        "dokumentasjonsform": "Egenregistrering"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-075",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Koordinere helsetjenester i samarbeid med andre",
+    "laeringsmaal": "Selvstendig kunne koordinere pasientens helsetjenester i samarbeid med andre deler av helsetjenesten, der dette ikke er tillagt andre instanser.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Ansvarsgrupper - Individuell plan",
+        "beskrivelse": "Delta i ansvarsgrupper.\nArbeid med individuell plan.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten, ALM-071, ALM-072 m.fl",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.  Bruk gjerne etablerte møteplasser der disse finnes.",
+        "dokumentasjonsform": "Egenregistrering"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-076",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Prioritere og gjøre avveiinger  ved mer enn en sykdom hos pasienten",
+    "laeringsmaal": "Selvstendig kunne vurdere utfordringer, gjøre avveiinger og prioritere når det foreligger mer enn en sykdom hos pasienten.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-077",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Interaksjoner ved multifarmasi - prioritere rett behandling",
+    "laeringsmaal": "Selvstendig kunne de viktigste interaksjoner ved multifarmasi og etter en samlet vurdering kunne prioritere rett behandling for pasienten.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (D) - Allmennlegen som forsker og kunnskapshåndterer",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Legemiddelgjennomgang",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-078",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Ulike aldersgrupper og etnisiteter  - særtrekk ved diagnostikk og behandling",
+    "laeringsmaal": "Kjenne til og kunne ivareta særtrekk ved diagnostikk og behandling av ulike aldersgrupper og etnisiteter.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Andre allmennmedisinske oppgaver",
+        "beskrivelse": "Arbeid med andre allmennmedisinske oppgaver, som praksisbesøk hos jordmor, helsestasjon eller på sykehjem.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-079",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Svangerskap, fødsel og barsel - fysiologiske, epidemiologiske forhold og intervensjonsbehov",
+    "laeringsmaal": "Ha kunnskap om spesielle fysiologiske og epidemiologiske forhold under svangerskap, fødsel og barsel, og være oppmerksom på når det er behov for intervensjon.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Andre allmennmedisinske oppgaver",
+        "beskrivelse": "Arbeid med andre allmennmedisinske oppgaver, som praksisbesøk hos jordmor eller på helsestasjon.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-080",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Fysiologiske og epidemiologiske forhold, spesielle sykdomsuttrykk - faser i livet",
+    "laeringsmaal": "Ha kunnskap om spesielle fysiologiske og epidemiologiske forhold, og spesielle sykdomsuttrykk i forskjellige faser i livet, som hos spedbarn, barn og eldre.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Andre allmennmedisinske oppgaver",
+        "beskrivelse": "Arbeid med andre allmennmedisinske oppgaver, som praksisbesøk hos jordmor, helsestasjon eller på sykehjem.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+        "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde, og har tilstrekkelig omfang og dybde til å dekke læringsmålene. \n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne.",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-081",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Fysiologiske og epidemiologiske forhold - ulike etniske grupper",
+    "laeringsmaal": "Ha kunnskap om spesielle fysiologiske og epidemiologiske forhold hos ulike etniske grupper.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Andre allmennmedisinske oppgaver",
+        "beskrivelse": "Arbeid med andre allmennmedisinske oppgaver, som praksisbesøk hos jordmor, helsestasjon eller på sykehjem.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      }
+    ]
+  },
+  {
+    "kode": "ALM-082",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Sjeldne sykdommer eller tilstander - medisinskfaglig ansvar",
+    "laeringsmaal": "Selvstendig kunne ta medisinskfaglig ansvar for oppfølging av pasienter med sjeldne sykdommer eller tilstander.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Samhandling med spesialisthelsetjenesten, ALM-082, ALM-084",
+        "beskrivelse": "Læringspunkter tas opp i samtale med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Tverrfaglig samarbeid - sjeldne sykdommer",
+        "beskrivelse": "Tverrfaglig samarbeid",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-083",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Sjelden sykdom eller tilstand - fagkunnskap",
+    "laeringsmaal": "Selvstendig kunne sette seg inn i fagkunnskap om en sjelden sykdom eller tilstand.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (D) - Allmennlegen som forsker og kunnskapshåndterer",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-084",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Pasientforløp - tilrettelegge i primærhelsetj. og samhandle med spesialisthelsetjenesten",
+    "laeringsmaal": "Selvstendig kunne søke informasjon og veiledning om utredning og for å tilrettelegge for pasienten i den delen av behandlingen som forgår i primærhelsetjenesten og samhandle med spesialisthelsetjenesten for å sikre et optimalt pasientforløp.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Samhandling med spesialisthelsetjenesten, ALM-082, ALM-084",
+        "beskrivelse": "Læringspunkter tas opp i samtale med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Tverrfaglig samarbeid - samhandle med spesialisthelsetjenesten",
+        "beskrivelse": "Tverrfaglig samarbeid",
+        "dokumentasjonsform": "Signatur (supervisør)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-085",
+    "tema": "Medisinsk kompetanse",
+    "korttekst_lm": "Selekterte pasientpopulasjoner - dybdekompetanse",
+    "laeringsmaal": "Ha dybdekompetanse i utredning, behandling og oppfølging av en eller flere selekterte pasientpopulasjoner.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Arbeid ved godkjent utdanningsvirksomhet eller tilsvarende",
+        "beskrivelse": "For å oppnå kompetanse i samhandling og selektert pasientpopulasjon anbefales minimum 6 måneder (eller 3 pluss 3) i godkjent utdanningsvirksomhet innen kliniske spesialiteter, og/eller i større kommunale helseinstitusjoner som har ansatt spesialist i allmennmedisin i full stilling, kan tilby individuell veiledning og supervisjon på nivå med godkjente utdanningsvirksomheter og har organisert internundervisning. LIS må delta i vaktordning der dette finnes.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-086",
+    "tema": "Praksisdrift og ledelse",
+    "korttekst_lm": "Lover, regler og avtaleverk - legekontor i Norge",
+    "laeringsmaal": "Ha kjennskap til lover, regler og avtaleverk som er styrende for å kunne drive et legekontor i Norge og ha særlig kunnskap om innholdet i Fastlegeforskriften og det øvrige regelverket for fastlegeordningen.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-087",
+    "tema": "Praksisdrift og ledelse",
+    "korttekst_lm": "Ledelsesteori, arbeidslivsorganisering og økonomi/regnskap",
+    "laeringsmaal": "Ha kunnskap om ledelsesteori, arbeidslivsorganisering og økonomi/regnskap på et slikt nivå at man kan være både medisinskfaglig ansvarlig og juridisk leder av et legekontor eller en lignende primærmedisinsk enhet.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      }
+    ]
+  },
+  {
+    "kode": "ALM-088",
+    "tema": "Praksisdrift og ledelse",
+    "korttekst_lm": "Organisasjons- og driftsmodeller",
+    "laeringsmaal": "Ha kunnskap om ulike organisasjons- og driftsmodeller som er aktuelle for å kunne ivareta en primærmedisinsk pasientpopulasjon på en slik måte at helsehjelpen blir kostnadseffektiv og fordelt slik at de med størst hjelpebehov blir prioritert.",
+    "kommentar": "",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "laeringsaktivitet": "Gjensidig praksisbesøk, ALM-001, ALM-002 m.fl",
+        "beskrivelse": "Gjensidig praksisbesøk med rapport, for eksempel etter  Legeforeningens mal for rapportering etter praksisbesøk.\n\nLæringspunkter etter besøk diskuteres med veileder.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      },
+      {
+        "laeringsform": "Kurs",
+        "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere",
+        "beskrivelse": "",
+        "dokumentasjonsform": "Kursbevis m/ kursprøve"
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "laeringsaktivitet": "Gruppeveiledning",
+        "beskrivelse": "",
+        "dokumentasjonsform": ""
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Allmennlegeutvalgsmøtene (ALU )",
+        "beskrivelse": "Delta på allmennlegeutvalgsmøtene (ALU)",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Styremøter i fastlegepraksis",
+        "beskrivelse": "Delta som medlem eller observatør i styremøter i fastlegepraksis.",
+        "dokumentasjonsform": "Egenregistrering"
+      },
+      {
+        "laeringsform": "Annet",
+        "laeringsaktivitet": "Årsrapport allmenlegeaktivitet",
+        "beskrivelse": "Lage årsrapport allmennlegeaktivitet.",
+        "dokumentasjonsform": "Signatur (veileder)"
+      }
+    ]
+  }
+]
