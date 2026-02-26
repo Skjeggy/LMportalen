@@ -1071,7 +1071,307 @@
       "aktiviteter": [],
       "linkText": "Les mer på Alis.no",
       "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
-    }
+    },
+    
+  {
+    "korttekst_lm": "Improvisere tiltak og løsningsstrategier i komplekse kliniske situasjoner",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 040",
+    "laeringsmaal": "Selvstendig kunne improvisere tiltak og løsningsstrategier i komplekse kliniske situasjoner.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Legevakt gjennomføres utenom kontorenes vanlige åpningstid med varighet minst 6 timer.",
+        "items": [
+          {
+            "laeringsaktivitet": "Legevakt (egenregistrering)",
+            "beskrivelse": "Minimum 40 vakter. Markeres som innfridd etter hver gjennomførte legevakt."
+          },
+          {
+            "laeringsaktivitet": "Legevakt (signatur)",
+            "beskrivelse": "Antall signaturer avtales i underveissamtale med veileder."
+          }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Kurs i akuttmedisin (jf. akuttmedisinforskriften)",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Kunnskapskilder, retningslinjer og beslutningsstøtteverktøy",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 041",
+    "laeringsmaal": "Kjenne til og selvstendig kunne bruke relevante allmennmedisinske kunnskapskilder, retningslinjer og beslutningsstøtteverktøy.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs (D) – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Kommunikasjonsferdigheter",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 042",
+    "laeringsmaal": "Ha gode kommunikasjonsferdigheter, både muntlig og skriftlig, og kunne forstå pasientens non-verbale kommunikasjon.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" },
+          { "laeringsaktivitet": "Legeerklæringer til NAV", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "Videokonsultasjon i forbindelse med gruppeveiledning.",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Trygge fysiske rammer - ivareta pasientens verdighet, diskresjon, engasjement og sikkerhet",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 043",
+    "laeringsmaal": "Selvstendig kunne skape trygge fysiske rammer som ivaretar pasientens verdighet, diskresjon, engasjement og sikkerhet.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "Videokonsultasjon i gruppeveiledning.",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Pasientsentrert tilnærming - empati, respekt og innlevelse",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 044",
+    "laeringsmaal": "Selvstendig kunne kommunisere med en pasientsentrert tilnærming som støtter pasientens tillit og autonomi, og som er karakterisert ved empati, respekt og innlevelse.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "Videokonsultasjon i gruppeveiledning.",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Tilpasse kommunikasjonen til pasienten",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 045",
+    "laeringsmaal": "Selvstendig kunne tilpasse kommunikasjonen til pasientens ståsted og preferanser, og til pasientens situasjon og medisinske tilstand.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Verdier, holdninger og perspektiver - betydning for helseproblemer og behandlingskvalitet",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 046",
+    "laeringsmaal": "Selvstendig kunne gjenkjenne når verdier, holdninger og perspektiver hos lege, pasient, pårørende og annet helsepersonell kan ha betydning for tilnærmingen til pasientens helseproblemer og behandlingskvalitet.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" },
+          { "laeringsaktivitet": "Praksisbesøk med rapport", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "Videokonsultasjon i gruppeveiledning.",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Uenighet og følelsesmessige vanskelige samtaler",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 047",
+    "laeringsmaal": "Selvstendig kunne håndtere uenighet og følelsesmessige vanskelige samtaler.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Fortolkning av opplysninger, fakta og funn av både lege og pasient",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 048",
+    "laeringsmaal": "Kjenne til konsekvensene av at mennesket er fortolkende av natur og kunne ta hensyn til at opplysninger, fakta og funn fortolkes av både lege og pasient.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Konsultasjonsteknikker",
+    "tema": "KOMMUNIKASJON OG SAMHANDLING",
+    "kode": "ALM 049",
+    "laeringsmaal": "Selvstendig kunne bruke forskjellige konsultasjonsteknikker og ha kunnskap om nytten av teknikkene ved ulike problemstillinger.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Felleskonsultasjon med supervisør", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  }
+
 ]
 
 
