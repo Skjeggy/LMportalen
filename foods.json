@@ -1,0 +1,889 @@
+[
+  {
+    "korttekst_lm": "Faglig og forsvarlighet - egen praksis",
+    "tema": "ALLMENNMEDISINSK PROFESJONALITET",
+    "kode": "ALM 001",
+    "laeringsmaal": "Selvstendig kunne sikre faglig forsvarlighet av egen, klinisk praksis.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Individuell veiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "TEST: Description hvis ønskelig, ellers leave empty ",
+        "items": [
+          {
+            "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+            "link": "fhsufhsuhf",
+            "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\"."
+          },
+          { "laeringsaktivitet": "Gjensidig praksisbesøk, ALM-001, ALM-002 m.fl", 
+            "beskrivelse": "Gjensidig praksisbesøk med rapport, for eksempel etter  Legeforeningens mal for rapportering etter praksisbesøk. Læringspunkter etter besøk diskuteres med veileder." }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret",
+            "link": "https://www.alis.no/alis-ordningen/grunnkurs?token=x4y9VCyIoNCkESWll_Catr7_jxHgkVSE#:~:text=De%20ulike%20grunnkursene",
+            "beskrivelse": ""
+          },
+          {
+            "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere",
+            "link": "https://www.alis.no/alis-ordningen/grunnkurs?token=x4y9VCyIoNCkESWll_Catr7_jxHgkVSE#:~:text=De%20ulike%20grunnkursene",
+            "beskrivelse": ""
+          },
+          {
+            "laeringsaktivitet": "Grunnkurs C",
+            "link": "https://www.alis.no/alis-ordningen/grunnkurs?token=x4y9VCyIoNCkESWll_Catr7_jxHgkVSE#:~:text=De%20ulike%20grunnkursene",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Styrker og begrensinger i egne kunnskaper og ferdigheter",
+    "tema": "ALLMENNMEDISINSK PROFESJONALITET",
+    "kode": "ALM 002",
+    "laeringsmaal": "Kunne evaluere styrker og begrensninger i egne kunnskaper og ferdigheter, og selvstendig kunne veilede kolleger i tilsvarende evaluering.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gjensidig praksisbesøk, ALM-001, ALM-002 m.fl", "beskrivelse": "Gjensidig praksisbesøk med rapport, for eksempel etter  Legeforeningens mal for rapportering etter praksisbesøk.\n\nLæringspunkter etter besøk diskuteres med veileder." }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+
+  {
+    "korttekst_lm": "Lokalsamfunnet - egen rolle som lege",
+    "tema": "ALLMENNMEDISINSK PROFESJONALITET",
+    "kode": "ALM 003",
+    "laeringsmaal": "Selvstendig kunne reflektere over hvordan egen rolle som lege påvirker lokalsamfunnet og blir påvirket av lokalsamfunnet.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Møte med kommunen, tema ALM-003, ALM-004 m.fl", "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege m.fl. - faglige dialogmøter\nBruk gjerne etablerte møteplasser knyttet til avtaleverket eller møteplasser mellom lege og kommuneledelse, eks. Allmennlegeutvalget (ALU) og samarbeidsutvalgsmøter." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Kultur, samfunn, historie og nasjonale strømninger - allmennlegens rolle",
+    "tema": "ALLMENNMEDISINSK PROFESJONALITET",
+    "kode": "ALM 004",
+    "laeringsmaal": "Selvstendig kunne reflektere over hvordan kultur, samfunn, historie og nasjonale strømninger påvirker forventningene til allmennlegens rolle.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Møte med kommunen, tema ALM-003, ALM-004 m.fl", "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege m.fl. - faglige dialogmøter\nBruk gjerne etablerte møteplasser knyttet til avtaleverket eller møteplasser mellom lege og kommuneledelse, eks. Allmennlegeutvalget (ALU) og samarbeidsutvalgsmøter." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Yrkesskade - Helse og trivsel for legen og legens medarbeidere",
+    "tema": "ALLMENNMEDISINSK PROFESJONALITET",
+    "kode": "ALM 005",
+    "laeringsmaal": "Ha kunnskap om forhold ved eget yrke og praksis som kan påvirke helse og trivsel for legen og legens medarbeidere; samt kjenne til hvordan yrkesskade kan forebygges.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Forebyggende helsetjenester i et klinisk og samfunnsmessig perspektiv",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 006",
+    "laeringsmaal": "Selvstendig kunne ivareta pasientens behov for forebyggende helsetjenester i et klinisk og samfunnsmessig perspektiv.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+
+
+  {
+    "korttekst_lm": "Levevaner, nærmiljø og arbeidsliv - tilgang til helsetjenester",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 007",
+    "laeringsmaal": "Sammen med pasienten kunne avdekke forhold ved levevaner, nærmiljø og arbeidsliv av betydning for liv, helse og pasientens tilgang til nødvendige helsetjenester.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Individuell veiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      },
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gjensidig praksisbesøk", "beskrivelse": "" },
+          { "laeringsaktivitet": "Praktisk tjeneste", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", 
+            "link": "https://www.alis.no/alis-ordningen/grunnkurs?token=x4y9VCyIoNCkESWll_Catr7_jxHgkVSE#:~:text=De%20ulike%20grunnkursene",
+            "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid",
+            "link": "https://www.alis.no/alis-ordningen/grunnkurs?token=x4y9VCyIoNCkESWll_Catr7_jxHgkVSE#:~:text=De%20ulike%20grunnkursene",
+            "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+
+
+  {
+    "korttekst_lm": "Helhetlig tilnærming - Kommunikasjonsferdigheter og kommunikasjonsstrategier",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 008",
+    "laeringsmaal": "Selvstendig kunne ha en helhetlig tilnærming til pasient og pårørende, og kunne bruke kommunikasjonsferdigheter og -strategier for å hjelpe pasienter og pårørende til å fatte kvalifiserte beslutninger om egen helseatferd.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." },
+          { "laeringsaktivitet": "Videokonsultasjon i forbindelse med gruppeveiledning, ALM-008, ALM-042 m.fl", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Forebygging, helsefremmende tiltak og helseovervåkning",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 009",
+    "laeringsmaal": "Selvstendig kunne innarbeide forebygging, helsefremmende tiltak og helseovervåkning i klinisk praksis.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Sosiale tiltak på system- og samfunnsnivå - påvirke lokalsamfunnet",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 010",
+    "laeringsmaal": "Selvstendig og i samarbeid med andre bidra til sosialt ansvarlige tiltak på system- og samfunnsnivå for å påvirke faktorer i lokalsamfunnet av betydning for liv og helse.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Møte med kommunen, tema ALM-003, ALM-004 m.fl", "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege m.fl. - faglige dialogmøter\nBruk gjerne etablerte møteplasser knyttet til avtaleverket eller møteplasser mellom lege og kommuneledelse, eks. Allmennlegeutvalget (ALU) og samarbeidsutvalgsmøter." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Folkehelsearbeidet lokalt - helsemessige utsatte grupper",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 011",
+    "laeringsmaal": "Selvstendig kunne bidra med observasjoner og kunnskap inn i det lokale folkehelsearbeidet, samt ivareta helsemessige utsatte grupper spesielt.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Møte med kommunen, tema ALM-003, ALM-004 m.fl", "beskrivelse": "Møter med kommunal ledelse, kommuneoverlege / fylkeslege m.fl. - faglige dialogmøter\nBruk gjerne etablerte møteplasser knyttet til avtaleverket eller møteplasser mellom lege og kommuneledelse, eks. Allmennlegeutvalget (ALU) og samarbeidsutvalgsmøter." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Sakkyndighetsvurderinger",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 012",
+    "laeringsmaal": "Selvstendig kunne utføre sakkyndighetsvurderinger, også for pasienter man står i et langvarig behandlerforhold til.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { 
+            "laeringsaktivitet": "Sakkyndighetskurs",
+            "beskrivelse": "Sakkyndighetskurs. Se felles kompetansemål (FKM-plan)."
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Behandlerrollen - rollen som sakkyndig",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 013",
+    "laeringsmaal": "Ha kunnskap om hvordan behandlerrollen skiller seg fra rollen som sakkyndig, og selvstendig kunne benytte teknikker for å tre ut av allmennlegerollen og gå inn i sakkyndighetsrollen.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Medisinske utfordringer - grunnlag for korrekte ytelser",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 014",
+    "laeringsmaal": "Selvstendig kunne beskrive pasientens medisinske utfordringer slik at det gis et riktigst mulig grunnlag for korrekte ytelser.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Prioritere i egen praksis - rett behandling på rett sted til rett tid",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 015",
+    "laeringsmaal": "Selvstendig kunne prioritere i egen praksis og kunne bidra til at pasienten får rett behandling på rett sted til rett tid.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Organisere egen praksis - tilgjengelig ved behov for øyeblikkelig hjelp",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 016",
+    "laeringsmaal": "Selvstendig kunne organisere egen praksis slik at pasienter som trenger mest, også får mest, og slik at legen er tilgjengelig ved behov for øyeblikkelig hjelp.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gjensidig praksisbesøk, ALM-001, ALM-002 m.fl", "beskrivelse": "Gjensidig praksisbesøk med rapport, for eksempel etter Legeforeningens mal for rapportering etter praksisbesøk.\n\nLæringspunkter etter besøk diskuteres med veileder." }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Tilgjengelighet - egne pasienter og samarbeidspartnere",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 017",
+    "laeringsmaal": "Selvstendig kunne fordele egen tilgjengelighet mellom egne pasienter og samarbeidspartnere.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Over- og underdiagnostikk, samt over- og underbehandling",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 018",
+    "laeringsmaal": "Kjenne til og selvstendig kunne vurdere utfordringer ved over- og underdiagnostikk, samt ved over- og underbehandling.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Relevant informasjon - henvendelser og henvisninger",
+    "tema": "SAMFUNNSOPPDRAG OG FOREBYGGENDE HELSEARBEID",
+    "kode": "ALM 019",
+    "laeringsmaal": "Selvstendig kunne formulere henvendelser og henvisninger slik at de inneholder relevant informasjon og bidrar til oppnåelse av nødvendig helsehjelp for pasientene.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" },
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. Det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde og har tilstrekkelig omfang og dybde til å dekke læringsmålene.\n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne." }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder." }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Forskning - historisk bakgrunn og faglig forankring",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 020",
+    "laeringsmaal": "Ha kjennskap til allmennmedisinsk forskning og kjenne til historisk bakgrunn og den faglige forankringen for allmennmedisinen og den personlige legen.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs D - Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+
+  {
+    "korttekst_lm": "Evidensbasert kunnskap",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 021",
+    "laeringsmaal": "Selvstendig kunne tilegne seg evidensbasert kunnskap og fortolke den kritisk i relasjon til den allmennmedisinske hverdagen, og kunne benytte kunnskapen i faglige beslutninger og i veiledning av pasienter og kolleger.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Grunnkurs D - Allmennlegen som forsker og kunnskapshåndterer",
+            "beskrivelse": ""
+          }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning",
+            "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder."
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Særtrekk ved allmennmedisin og uselekterte populasjoner",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 022",
+    "laeringsmaal": "Ha kjennskap til særtrekk ved allmennmedisin og utfordringer ved legearbeid i uselekterte populasjoner.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret",
+            "beskrivelse": ""
+          }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning",
+            "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder."
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Symptomer og sykdommer - uselektert populasjon",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 023",
+    "laeringsmaal": "Ha god kunnskap om forekomst av symptomer og sykdommer i en uselektert populasjon.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+            "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\"."
+          }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning",
+            "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder."
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+
+
+
+   {
+    "korttekst_lm": "Pasientens erfaringsbakgrunn, arbeidslivstilknytning og sosiale miljø - påvirkning på sykdom",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 024",
+    "laeringsmaal": "Ha kjennskap til hvordan faktorer i pasientens erfaringsbakgrunn, arbeidslivstilknytning og sosiale miljø og forutsetninger kan virke inn på sykdom og mestringsevne, og selvstendig kunne bruke denne kunnskapen i møte med hver enkelt pasient.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid",
+            "beskrivelse": ""
+          }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning",
+            "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder."
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Lokalsamfunnet",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 025",
+    "laeringsmaal": "Selvstendig kunne tilegne seg relevant kunnskap om lokalsamfunnet.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+            "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\"."
+          }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning",
+            "beskrivelse": "Gruppeveiledning\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder."
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Tid og gjentatte konsultasjoner som virkemiddel",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 026",
+    "laeringsmaal": "Selvstendig kunne bruke tid og gjentatte konsultasjoner som virkemiddel i diagnostikk og behandling.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+            "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\"."
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Relasjon til pasienten",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 027",
+    "laeringsmaal": "Selvstendig kunne inngå i en varig og forpliktende profesjonell relasjon til pasienten.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
+            "beskrivelse": "Jf spesialistforskriften § 31, annet ledd: \"Dersom legen har hatt tjeneste på deltid under utdanningen skal tellende tjeneste forkortes tilsvarende\"."
+          }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Pasientsentrert fokus",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 028",
+    "laeringsmaal": "Selvstendig kunne arbeide pasientsentrert med fokus på pasienten, pasientens kontekst og pasientens presenterte problem.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gjensidig praksisbesøk, ALM-001, ALM-002 m.fl",
+            "beskrivelse": "Gjensidig praksisbesøk med rapport, for eksempel etter Legeforeningens mal for rapportering etter praksisbesøk.\n\nLæringspunkter etter besøk diskuteres med veileder."
+          }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+
+  {
+    "korttekst_lm": "Tilpasse behandling og oppfølging til hver enkelt pasient",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 029",
+    "laeringsmaal": "Selvstendig kunne tilpasse behandling og oppfølging til hver enkelt pasient.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner",
+            "beskrivelse": "Denne delen av kursutdanningen skal dekke spesifikke områder av medisinen. Det er kurs som omhandler diagnostikk og allmennmedisinske tiltak innenfor ett spesielt medisinsk fagområde og har tilstrekkelig omfang og dybde til å dekke læringsmålene.\n\nKursene må ha en varighet på minimum 15 kurstimer innen hvert emne."
+          }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Mestring hos pasienten og lindring av pasientens plager",
+    "tema": "ALLMENNMEDISINSK METODE",
+    "kode": "ALM 030",
+    "laeringsmaal": "Selvstendig kunne bidra til økt mestring hos pasienten og til lindring av pasientens plager.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  }
+]
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
