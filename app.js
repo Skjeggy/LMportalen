@@ -286,7 +286,7 @@ function applyFilters() {
 
 // ---------- main ----------
 async function main() {
-  const res = await fetch("./foods.json");
+  const res = await fetch("./lm.json");
   allItems = await res.json();
 
   // normalize spacing and fields
