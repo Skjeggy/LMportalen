@@ -1852,7 +1852,324 @@
     ],
     "linkText": "Les mer på Alis.no",
     "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+
+  {
+    "korttekst_lm": "Prioritere, kommunisere, delegere og organisere",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 070",
+    "laeringsmaal": "Ved samtidighetskonflikt selvstendig kunne prioritere mellom pasienter med kritisk sykdom eller alvorlig skade og kunne organisere, kommunisere og delegere videre behandling.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Legevakt utenom ordinær åpningstid.",
+        "items": [
+          { "laeringsaktivitet": "Legevakt (egenregistrering)", "beskrivelse": "" },
+          { "laeringsaktivitet": "Legevakt (signatur)", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Ferdighetstrening",
+        "beskrivelse": "Trening i akuttmedisinske team.",
+        "items": [
+          { "laeringsaktivitet": "Teamtrening – prioritering og ledelse", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Kurs i akuttmedisin (jf. akuttmedisinforskriften)", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Kroniske sykdommer - samarbeide med spesialisthelsetjenesten",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 071",
+    "laeringsmaal": "Selvstendig kunne diagnostisere og behandle kroniske sykdommer i primærhelsetjenesten og samarbeide med spesialisthelsetjenesten.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen relevante fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.",
+        "items": [
+          { "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Kroniske folkesykdommer - vanligste",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 072",
+    "laeringsmaal": "Selvstendig kunne diagnostisere de vanligste kroniske folkesykdommene.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen relevante fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.",
+        "items": [
+          { "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Kronisk sykdom - Behandlingsplan og oppfølgingsplan",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 073",
+    "laeringsmaal": "Selvstendig kunne iverksette, følge opp og justere behandlings- og oppfølgingsplan ved kronisk sykdom.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen relevante fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.",
+        "items": [
+          { "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Behandlingsplan - agere på symptomer",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 074",
+    "laeringsmaal": "Selvstendig kunne oppdage og agere på symptomer som tilsier behov for endret behandlingsplan.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen relevante fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.",
+        "items": [
+          { "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Koordinere helsetjenester i samarbeid med andre",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 075",
+    "laeringsmaal": "Selvstendig kunne koordinere pasientens helsetjenester i samarbeid med andre deler av helsetjenesten.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Deltakelse i ansvarsgrupper og arbeid med individuell plan.",
+        "items": [
+          { "laeringsaktivitet": "Ansvarsgrupper og individuell plan", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Faglige møter med spesialisthelsetjenesten.",
+        "items": [
+          { "laeringsaktivitet": "Faglig møte med spesialisthelsetjenesten", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Prioritere og gjøre avveiinger ved multimorbiditet",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 076",
+    "laeringsmaal": "Selvstendig kunne gjøre avveiinger og prioriteringer når det foreligger mer enn én sykdom hos pasienten.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen relevante fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Interaksjoner ved multifarmasi - prioritere rett behandling",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 077",
+    "laeringsmaal": "Selvstendig kunne vurdere interaksjoner ved multifarmasi og prioritere riktig behandling.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (D) – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" },
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Legemiddelgjennomgang", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Ulike aldersgrupper og etnisiteter - særtrekk",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 078",
+    "laeringsmaal": "Kjenne til og ivareta særtrekk ved diagnostikk og behandling av ulike aldersgrupper og etnisiteter.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Arbeid med helsestasjon, jordmor eller sykehjem.",
+        "items": [
+          { "laeringsaktivitet": "Andre allmennmedisinske oppgaver", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen relevante fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Svangerskap, fødsel og barsel - fysiologiske forhold og intervensjonsbehov",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 079",
+    "laeringsmaal": "Ha kunnskap om fysiologiske og epidemiologiske forhold under svangerskap, fødsel og barsel og være oppmerksom på intervensjonsbehov.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Arbeid ved helsestasjon eller praksisbesøk hos jordmor.",
+        "items": [
+          { "laeringsaktivitet": "Andre allmennmedisinske oppgaver", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen relevante fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
   }
+
 
 ]
 
