@@ -907,7 +907,7 @@
           "beskrivelse": "",
           "items": [
             {
-              "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid",
+              "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid",
               "beskrivelse": ""
             }
           ]
@@ -928,7 +928,7 @@
           "beskrivelse": "",
           "items": [
             {
-              "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+              "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret",
               "beskrivelse": ""
             }
           ]
@@ -980,7 +980,7 @@
           "beskrivelse": "",
           "items": [
             {
-              "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+              "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret",
               "beskrivelse": ""
             }
           ]
@@ -1011,7 +1011,7 @@
           "beskrivelse": "",
           "items": [
             {
-              "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret",
+              "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret",
               "beskrivelse": ""
             }
           ]
@@ -1119,8 +1119,8 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" },
-          { "laeringsaktivitet": "Grunnkurs (D) – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs D – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
         ]
       }
     ],
@@ -1146,7 +1146,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
         ]
       },
       {
@@ -1203,7 +1203,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
         ]
       },
       {
@@ -1235,7 +1235,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
         ]
       },
       {
@@ -1268,7 +1268,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
         ]
       },
       {
@@ -1325,7 +1325,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
         ]
       },
       {
@@ -1357,7 +1357,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
         ]
       },
       {
@@ -1391,7 +1391,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
         ]
       },
       {
@@ -1416,7 +1416,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
         ]
       },
       {
@@ -1585,7 +1585,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" }
         ]
       },
       {
@@ -1610,9 +1610,9 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (A) – Allmennlegen og fastlegekontoret", "beskrivelse": "" },
-          { "laeringsaktivitet": "Grunnkurs (C) – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" },
-          { "laeringsaktivitet": "Grunnkurs (D) – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs A – Allmennlegen og fastlegekontoret", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs C – Allmennlegen og helsefremmende arbeid", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs D – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
         ]
       }
     ],
@@ -2083,7 +2083,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (D) – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" },
+          { "laeringsaktivitet": "Grunnkurs D – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" },
           { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
         ]
       },
@@ -2256,7 +2256,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (D) – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs D – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
         ]
       }
     ],
@@ -2317,7 +2317,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
         ]
       }
     ],
@@ -2335,7 +2335,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
         ]
       }
     ],
@@ -2360,7 +2360,7 @@
         "laeringsform": "Kurs",
         "beskrivelse": "",
         "items": [
-          { "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+          { "laeringsaktivitet": "Grunnkurs B – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
         ]
       },
       {
