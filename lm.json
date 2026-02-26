@@ -2168,8 +2168,221 @@
     ],
     "linkText": "Les mer på Alis.no",
     "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
-  }
+  },
 
+  {
+    "korttekst_lm": "Fysiologiske og epidemiologiske forhold - faser i livet",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 080",
+    "laeringsmaal": "Ha kunnskap om fysiologiske og epidemiologiske forhold og sykdomsuttrykk i ulike faser i livet.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Arbeid ved helsestasjon, jordmor eller sykehjem.",
+        "items": [
+          { "laeringsaktivitet": "Andre allmennmedisinske oppgaver", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "Emnekurs innen relevante fagområder.",
+        "items": [
+          { "laeringsaktivitet": "Emnekurs - minimum 6 ulike emner", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Fysiologiske og epidemiologiske forhold - ulike etniske grupper",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 081",
+    "laeringsmaal": "Ha kunnskap om fysiologiske og epidemiologiske forhold hos ulike etniske grupper.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Arbeid ved helsestasjon eller sykehjem.",
+        "items": [
+          { "laeringsaktivitet": "Andre allmennmedisinske oppgaver", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Sjeldne sykdommer eller tilstander - medisinskfaglig ansvar",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 082",
+    "laeringsmaal": "Selvstendig kunne ta medisinskfaglig ansvar for oppfølging av pasienter med sjeldne sykdommer eller tilstander.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Samhandling med spesialisthelsetjenesten.",
+        "items": [
+          { "laeringsaktivitet": "Samhandling med spesialisthelsetjenesten", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Tverrfaglig samarbeid.",
+        "items": [
+          { "laeringsaktivitet": "Tverrfaglig samarbeid - sjeldne sykdommer", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Sjelden sykdom eller tilstand - fagkunnskap",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 083",
+    "laeringsmaal": "Selvstendig kunne sette seg inn i fagkunnskap om en sjelden sykdom eller tilstand.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (D) – Allmennlegen som forsker og kunnskapshåndterer", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Pasientforløp - tilrettelegge og samhandle",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 084",
+    "laeringsmaal": "Selvstendig kunne søke informasjon, tilrettelegge og samhandle med spesialisthelsetjenesten for å sikre optimalt pasientforløp.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Samhandling med spesialisthelsetjenesten.",
+        "items": [
+          { "laeringsaktivitet": "Samhandling med spesialisthelsetjenesten", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Tverrfaglig samarbeid.",
+        "items": [
+          { "laeringsaktivitet": "Tverrfaglig samarbeid", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Selekterte pasientpopulasjoner - dybdekompetanse",
+    "tema": "MEDISINSK KOMPETANSE",
+    "kode": "ALM 085",
+    "laeringsmaal": "Ha dybdekompetanse i utredning, behandling og oppfølging av selekterte pasientpopulasjoner.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Minimum 6 måneder ved godkjent utdanningsvirksomhet.",
+        "items": [
+          { "laeringsaktivitet": "Arbeid ved godkjent utdanningsvirksomhet", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Lover, regler og avtaleverk - legekontor i Norge",
+    "tema": "PRAKSISDRIFT OG LEDELSE",
+    "kode": "ALM 086",
+    "laeringsmaal": "Ha kjennskap til lover, regler og avtaleverk som regulerer drift av legekontor i Norge, inkludert fastlegeordningen.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Ledelsesteori, arbeidslivsorganisering og økonomi/regnskap",
+    "tema": "PRAKSISDRIFT OG LEDELSE",
+    "kode": "ALM 087",
+    "laeringsmaal": "Ha kunnskap om ledelsesteori, arbeidslivsorganisering og økonomi/regnskap på et nivå som muliggjør ansvar som leder av legekontor.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  },
+  {
+    "korttekst_lm": "Organisasjons- og driftsmodeller",
+    "tema": "PRAKSISDRIFT OG LEDELSE",
+    "kode": "ALM 088",
+    "laeringsmaal": "Ha kunnskap om organisasjons- og driftsmodeller som sikrer kostnadseffektiv og behovsprioritert helsehjelp.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Klinisk tjeneste",
+        "beskrivelse": "Gjensidig praksisbesøk med rapport.",
+        "items": [
+          { "laeringsaktivitet": "Gjensidig praksisbesøk", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Grunnkurs (B) – Allmennlegens roller og samarbeidspartnere", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          { "laeringsaktivitet": "Gruppeveiledning", "beskrivelse": "" }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "Deltakelse i møteplasser og styrearbeid.",
+        "items": [
+          { "laeringsaktivitet": "Allmennlegeutvalg (ALU)", "beskrivelse": "" },
+          { "laeringsaktivitet": "Styremøter i fastlegepraksis", "beskrivelse": "" },
+          { "laeringsaktivitet": "Årsrapport allmennlegeaktivitet", "beskrivelse": "" }
+        ]
+      }
+    ],
+    "linkText": "Les mer på Alis.no",
+    "link": "https://www.alis.no/l%C3%A6ringsm%C3%A5l-allmennmedisin"
+  }
 
 ]
 
