@@ -2,6 +2,10 @@
 // app.js (UPDATED FOR NEW JSON KEYS)
 // -----------------------------
 
+import { filterItems } from "./search.js";
+
+
+
 const acc = document.getElementById("acc");
 const searchInput = document.getElementById("searchInput");
 const categorySelect = document.getElementById("categorySelect");
@@ -231,58 +235,24 @@ function attachSubAccordionBehavior() {
   });
 }
 
+
+
+
+
 // ---------- filtering ----------
 function applyFilters() {
-  const searchText = searchInput.value.toLowerCase().trim();
+  const filters = {
+    searchText: searchInput.value.trim(),
+    selectedTema: categorySelect.value,
+    selectedForm: formSelect.value,
+  };
 
-  const selectedTema = categorySelect.value;
-  const selectedForm = formSelect.value;
-
-  const filteredItems = allItems.filter((item) => {
-    const tema = normalize(item.tema);
-    const forms = getLearningForms(item);
-
-    const matchesTema = selectedTema === "all" || tema === selectedTema;
-    const matchesForm = selectedForm === "all" || forms.includes(selectedForm);
-
-    // include both læringsform beskrivelse AND item beskrivelse in search
-    const aktiviteterText = (item.aktiviteter || [])
-      .map((a) => {
-        const lf = normalize(a.laeringsform);
-        const b = normalize(a.beskrivelse);
-
-        const items = (a.items || [])
-          .map((x) => {
-            if (typeof x === "string") return x;
-            const name = x?.laeringsaktivitet || "";
-            const desc = x?.beskrivelse || "";
-            return `${name} ${desc}`.trim();
-          })
-          .join(" ");
-
-        return `${lf} ${b} ${items}`.trim();
-      })
-      .join(" ");
-
-    const haystack = [
-      item.korttekst_lm,
-      item.tema,
-      item.kode,
-      item.laeringsmaal,
-      aktiviteterText,
-    ]
-      .filter(Boolean)
-      .join(" ")
-      .toLowerCase();
-
-    const matchesSearch = !searchText || haystack.includes(searchText);
-
-    return matchesTema && matchesForm && matchesSearch;
-  });
+  const filteredItems = filterItems(allItems, filters);
 
   renderAccordion(filteredItems);
   attachAccordionBehavior();
 }
+
 
 // ---------- main ----------
 async function main() {
