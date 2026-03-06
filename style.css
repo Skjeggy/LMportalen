@@ -8,6 +8,29 @@
   --line: #e5e7eb;
 }
 
+
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px 30px;
+}
+
+.logo {
+  height: 40px;
+  width: auto;
+}
+
+.page-title {
+  font-size: 28px;
+  font-weight: 600;
+  margin: 0;
+}
+
+
+
+
 /* =========================
    Page base
    ========================= */
