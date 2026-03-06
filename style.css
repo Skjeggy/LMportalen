@@ -354,3 +354,12 @@ body {
   background: #f9fafb;
   margin: 12px 0;
 }
+
+
+.alis-logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 120px;
+  height: auto;
+}
