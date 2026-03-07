@@ -1,0 +1,60 @@
+[
+  {
+    "korttekst_lm": "Etikk, del 2 og 3",
+    "tema": "ETIKK",
+    "kode": "FKM 001",
+    "laeringsmaal": "Ha god kunnskap om og selvstendig kunne bruke etisk refleksjon til å identifisere, analysere og håndtere etiske utfordringer i eget arbeid.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": []
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": []
+      },
+      {
+        "laeringsform": "Praktisk tjeneste",
+        "beskrivelse": "",
+        "items": []
+      },
+      {
+        "laeringsform": "Ferdighetstrening",
+        "beskrivelse": "",
+        "items": []
+      }
+    ]
+  },
+  {
+    "korttekst_lm": "Kommunikasjon, del 2 og 3",
+    "tema": "KOMMUNIKASJON, SAMVALG OG HELSEKOMPETANSE",
+    "kode": "FKM 002",
+    "laeringsmaal": "Ha god kunnskap om styrker og svakheter i egne kommunikasjonsferdigheter, og selvstendig kunne endre praksis i tråd med tilbakemeldinger.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": []
+      },
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": []
+      },
+      {
+        "laeringsform": "Praktisk tjeneste",
+        "beskrivelse": "",
+        "items": []
+      },
+      {
+        "laeringsform": "Ferdighetstrening",
+        "beskrivelse": "",
+        "items": []
+      }
+    ]
+  }
+]

@@ -3,40 +3,48 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Accordion</title>
+    <title>ALIS Søkeportal</title>
     <link rel="stylesheet" href="./style.css" />
   </head>
 
   <body>
-
-    <img src="./alis-logo.png" class="alis-logo" alt="ALIS logo" />
-
-
     <main class="page">
-      <h1 class="page-title">ALIS - Søkeportal</h1>
 
-      <!-- Controls (search + tema + code + læringsform) -->
-      <div class="controls">
-        <input
-          id="searchInput"
-          class="control-input"
-          type="search"
-          placeholder="Søk…"
-          autocomplete="off"
-        />
+      <div class="top-panel">
 
-        <select id="categorySelect" class="control-select">
-          <option value="all">Alle domener</option>
-        </select>
+        <header class="page-header">
+          <img src="./images/ALIS_logo.png" alt="ALIS logo" class="page-logo" />
+          <h1 class="page-title">Søkeportal</h1>
+        </header>
 
+        <div class="controls">
+          <select id="datasetSelect" class="control-select">
+            <option value="lm">ALM læringsmål</option>
+            <option value="sam">SAM læringsmål</option>
+            <option value="fkm">FKM læringsmål</option>
+          </select>
 
-        <select id="formSelect" class="control-select">
-          <option value="all">Alle læringsformer</option>
-        </select>
+          <input
+            id="searchInput"
+            class="control-input"
+            type="search"
+            placeholder="Søk…"
+            autocomplete="off"
+          />
+
+          <select id="categorySelect" class="control-select">
+            <option value="all">Alle tema</option>
+          </select>
+
+          <select id="formSelect" class="control-select">
+            <option value="all">Alle læringsformer</option>
+          </select>
+        </div>
+
       </div>
 
-      <!-- JS will fill this -->
       <section class="acc" id="acc"></section>
+
     </main>
 
     <script type="module" src="./app.js"></script>

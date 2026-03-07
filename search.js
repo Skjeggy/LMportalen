@@ -221,7 +221,7 @@ function levenshteinDistance(a, b) {
 export function filterItems(items, filters) {
   const { searchText, selectedTema, selectedForm } = filters;
 
-  return items.filter((item) => {
+  const matchedItems = items.filter((item) => {
     const tema = (item.tema ?? "").toString().trim();
     const forms = getLearningForms(item);
 
@@ -236,5 +236,19 @@ export function filterItems(items, filters) {
       fuzzyMatch(haystack, searchText);
 
     return matchesTema && matchesForm && matchesSearch;
+  });
+
+  if (!searchText) return matchedItems;
+
+  const queryDigits = digitsOnly(searchText);
+
+  return matchedItems.sort((a, b) => {
+    const aExactCodeMatch = digitsOnly(a.kode) === queryDigits;
+    const bExactCodeMatch = digitsOnly(b.kode) === queryDigits;
+
+    if (aExactCodeMatch && !bExactCodeMatch) return -1;
+    if (!aExactCodeMatch && bExactCodeMatch) return 1;
+
+    return 0;
   });
 }

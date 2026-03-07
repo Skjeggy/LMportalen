@@ -1,0 +1,166 @@
+[
+  {
+    "korttekst_lm": "Lovverket - offentlig forvaltning",
+    "tema": "Saksbehandling",
+    "kode": "SAM 001",
+    "laeringsmaal": "Ha god kunnskap om lovverket som regulerer offentlig saksbehandling.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Kurs - Helserett og saksbehandling",
+            "beskrivelse": ""
+          }
+        ]
+      },
+      {
+        "laeringsform": "Praktisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Samfunnsmedisinsk arbeid",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "korttekst_lm": "Lovverket - tvang innen psykisk og somatisk helse",
+    "tema": "Saksbehandling",
+    "kode": "SAM 002",
+    "laeringsmaal": "Ha god kunnskap om lovverket som regulerer tvang innen psykisk og somatisk helse.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "utdypende_tekst": "Herunder pasientenes og pårørendes rettigheter.",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Kurs Helserett og saksbehandling",
+            "beskrivelse": ""
+          }
+        ]
+      },
+      {
+        "laeringsform": "Praktisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Samfunnsmedisinsk arbeid",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "korttekst_lm": "Saksbehandling",
+    "tema": "Saksbehandling",
+    "kode": "SAM 003",
+    "laeringsmaal": "Beherske saksbehandling i egen virksomhet, både selvstendig og i samarbeid med andre.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "utdypende_tekst": "Herunder variert saksbehandling som å følge opp saker til administrativ eller politisk beslutning, iverksettelse av vedtak gjort av besluttende myndigheter, klage og tilsynssaker osv.",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning, tema SAM-003",
+            "beskrivelse": "Gruppeveiledning\n\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder."
+          }
+        ]
+       },
+       {
+        "laeringsform": "Praktisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Samfunnsmedisinsk arbeid",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "korttekst_lm": "Lov om psykisk helsevern - tvangsvedtak",
+    "tema": "Saksbehandling",
+    "kode": "SAM 004",
+    "laeringsmaal": "Selvstendig kunne fatte tvangsvedtak etter Lov om psykisk helsevern.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "utdypende_tekst": "I samfunnsmedisinske stillinger har de aktuelle vedtakene som fattes grunnlag i § 3-1.",
+    "aktiviteter": [
+      {
+        "laeringsform": "Gruppeveiledning",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Gruppeveiledning, tema SAM-004",
+            "beskrivelse": "Gruppeveiledning\n\nOm ønskelig legges kommentarer inn i kommentarfeltet.\nLæringsaktiviteten markeres som innfridd etter hver gjennomført gruppeveiledning. Signeres av gruppeveileder."
+          }
+        ]
+      },
+      {
+        "laeringsform": "Praktisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Samfunnsmedisinsk arbeid.",
+            "beskrivelse": ""
+          }
+        ]
+      },
+      {
+        "laeringsform": "Annet",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Delta i prosess der tvangsvedtak fattes.",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "korttekst_lm": "Lover og forskrifter - samfunnsmedisinsk arbeid",
+    "tema": "Råd og veiledning",
+    "kode": "SAM 005",
+    "laeringsmaal": "Ha god kunnskap om lover og forskrifter som har betydning i samfunnsmedisinsk arbeid.",
+    "sectionsTitle": "Læringsaktiviteter",
+    "aktiviteter": [
+      {
+        "laeringsform": "Kurs",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Kurs - Helserett og saksbehandling",
+            "beskrivelse": ""
+          }
+        ]
+      },
+      {
+        "laeringsform": "Praktisk tjeneste",
+        "beskrivelse": "",
+        "items": [
+          {
+            "laeringsaktivitet": "Samfunnsmedisinsk arbeid",
+            "beskrivelse": ""
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+
+
+
+

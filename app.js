@@ -1,12 +1,7 @@
-// -----------------------------
-// app.js (UPDATED FOR NEW JSON KEYS)
-// -----------------------------
-
 import { filterItems } from "./search.js";
 
-
-
 const acc = document.getElementById("acc");
+const datasetSelect = document.getElementById("datasetSelect");
 const searchInput = document.getElementById("searchInput");
 const categorySelect = document.getElementById("categorySelect");
 const formSelect = document.getElementById("formSelect");
@@ -42,8 +37,17 @@ function fillSelect(selectEl, values, allLabel) {
       .map((v) => `<option value="${escapeHtml(v)}">${escapeHtml(v)}</option>`)
       .join("");
 
-  if (["all", ...values].includes(current)) selectEl.value = current;
-  else selectEl.value = "all";
+  if (["all", ...values].includes(current)) {
+    selectEl.value = current;
+  } else {
+    selectEl.value = "all";
+  }
+}
+
+function resetFilters() {
+  searchInput.value = "";
+  categorySelect.value = "all";
+  formSelect.value = "all";
 }
 
 // læringsform is derived from aktiviteter[].laeringsform
@@ -61,7 +65,6 @@ function renderAccordion(items) {
         ? `<div class="acc-tema">${escapeHtml(item.tema)}</div>`
         : "";
 
-      // optional sub label
       const categoryHtml = item.category
         ? `<div class="acc-sub">${escapeHtml(item.category)}</div>`
         : "";
@@ -74,26 +77,20 @@ function renderAccordion(items) {
         ? `<div class="acc-bullets-title">${escapeHtml(item.sectionsTitle)}</div>`
         : "";
 
-      // nested accordion content
       const aktiviteterHtml = (item.aktiviteter || [])
         .filter((a) => a && a.laeringsform)
         .map((a) => {
-          // læringsform beskrivelse (goes under the title)
           const beskrivelseHtml =
             a.beskrivelse && a.beskrivelse.trim()
               ? `<div class="sub-desc">${escapeHtml(a.beskrivelse)}</div>`
               : "";
 
-          // bullets
           const innerItems = (a.items || [])
             .map((it) => {
-              // old string format
               if (typeof it === "string") {
                 return `<li>${escapeHtml(it)}</li>`;
               }
 
-              // new object format:
-              // { laeringsaktivitet, link?, beskrivelse? }
               if (it && it.laeringsaktivitet) {
                 const titleHtml = it.link
                   ? `
@@ -193,15 +190,11 @@ function attachAccordionBehavior() {
 
   rows.forEach((row) => {
     row.addEventListener("click", () => {
-      // ACTIVE: only one row stays blue
       rows.forEach((r) => (r.dataset.active = "false"));
       row.dataset.active = "true";
 
-      // OPEN: toggle only this row (allow multiple open)
       const panel = row.parentElement.querySelector(".acc-panel");
       const isOpen = row.getAttribute("aria-expanded") === "true";
-
-      // NEW: add/remove card border on the whole tile
       const item = row.closest(".acc-item");
 
       row.setAttribute("aria-expanded", String(!isOpen));
@@ -209,11 +202,10 @@ function attachAccordionBehavior() {
 
       if (item) item.classList.toggle("is-open", !isOpen);
       if (panel) panel.hidden = isOpen;
-          });
+    });
   });
 }
 
-// Nested accordion behavior (delegation: attach ONCE)
 let subAccordionAttached = false;
 function attachSubAccordionBehavior() {
   if (subAccordionAttached) return;
@@ -235,10 +227,6 @@ function attachSubAccordionBehavior() {
   });
 }
 
-
-
-
-
 // ---------- filtering ----------
 function applyFilters() {
   const filters = {
@@ -253,14 +241,19 @@ function applyFilters() {
   attachAccordionBehavior();
 }
 
+// ---------- data loading ----------
+async function loadDataset(datasetName) {
+  const fileMap = {
+    lm: "./json_data/alm.json",
+    sam: "./json_data/sam.json",
+    fkm: "./json_data/fkm.json"
+  };
 
-// ---------- main ----------
-async function main() {
-  const res = await fetch("./lm.json");
-  allItems = await res.json();
+  const filePath = fileMap[datasetName];
+  const res = await fetch(filePath);
+  const data = await res.json();
 
-  // normalize spacing and fields
-  allItems = allItems.map((x) => ({
+  allItems = data.map((x) => ({
     ...x,
     kode: normalize(x.kode).replace(/\s+/g, " "),
     tema: normalize(x.tema),
@@ -272,12 +265,25 @@ async function main() {
   fillSelect(categorySelect, temaer, "Alle tema");
   fillSelect(formSelect, former, "Alle læringsformer");
 
-  attachSubAccordionBehavior();
+  formSelect.disabled = former.length === 0;
+
   applyFilters();
+}
+
+// ---------- main ----------
+async function main() {
+  attachSubAccordionBehavior();
+
+  await loadDataset(datasetSelect.value);
 
   searchInput.addEventListener("input", applyFilters);
   categorySelect.addEventListener("change", applyFilters);
   formSelect.addEventListener("change", applyFilters);
+
+  datasetSelect.addEventListener("change", async () => {
+    resetFilters();
+    await loadDataset(datasetSelect.value);
+  });
 }
 
 main();
