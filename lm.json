@@ -15,7 +15,7 @@
       },
       {
         "laeringsform": "Klinisk tjeneste",
-        "beskrivelse": "TEST: Description hvis ønskelig, ellers leave empty ",
+        "beskrivelse": "TEST : Description hvis ønskelig, ellers leave empty ",
         "items": [
           {
             "laeringsaktivitet": "2 år i åpen uselektert allmennpraksis",
