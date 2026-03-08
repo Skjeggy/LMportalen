@@ -408,7 +408,18 @@ body {
 
 
 
+.page-footer-space {
+  margin-top: 50px;
+  padding-bottom: 40px;
+  min-height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-
-
+.page-footer {
+  text-align: center;
+  font-size: 13px;
+  color: var(--muted);
+}
 

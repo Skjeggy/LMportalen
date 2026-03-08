@@ -5,6 +5,7 @@ const datasetSelect = document.getElementById("datasetSelect");
 const searchInput = document.getElementById("searchInput");
 const categorySelect = document.getElementById("categorySelect");
 const formSelect = document.getElementById("formSelect");
+const pageFooter = document.getElementById("pageFooter");
 
 let allItems = [];
 
@@ -239,7 +240,19 @@ function applyFilters() {
 
   renderAccordion(filteredItems);
   attachAccordionBehavior();
+
+  const noFiltersApplied =
+    !filters.searchText &&
+    filters.selectedTema === "all" &&
+    filters.selectedForm === "all";
+
+  if (pageFooter) {
+    pageFooter.style.visibility = noFiltersApplied ? "visible" : "hidden";
+  }
 }
+
+
+
 
 // ---------- data loading ----------
 async function loadDataset(datasetName) {
